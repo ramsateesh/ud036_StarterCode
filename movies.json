@@ -1,0 +1,52 @@
+{
+    "movies": [
+        {
+            "title":"Avatar",
+            "duration":"2 hrs 30 mins",
+            "trailer_youtube_url":"https://www.youtube.com/watch?v=5PSNL1qE6VY",
+            "poster_image_url":"https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",
+            "storyline":"A marine on an alien planet",
+            "rating":"PG-13"
+        },
+        {
+            "title":"Inception",
+            "duration":"2 hrs",
+            "trailer_youtube_url":"https://www.youtube.com/watch?v=8hP9D6kZseM",
+            "poster_image_url":"https://upload.wikimedia.org/wikipedia/en/2/2e/Inception_%282010%29_theatrical_poster.jpg",
+            "storyline":"As a professional thief who steals information by infiltrating the subconscious",
+            "rating":"R"
+        },
+        {
+            "title":"Toy Story",
+            "duration":"2 hrs",
+            "trailer_youtube_url":"https://www.youtube.com/watch?v=KYz2wyBy3kc",
+            "poster_image_url":"https://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
+            "storyline":"",
+            "rating":"G"
+        },
+        {
+            "title":"Catch Me If You Can",
+            "duration":"2 hrs 15 mins",
+            "trailer_youtube_url":"https://www.youtube.com/watch?v=71rDQ7z4eFg",
+            "poster_image_url":"https://upload.wikimedia.org/wikipedia/en/4/4d/Catch_Me_If_You_Can_2002_movie.jpg",
+            "storyline":"Story based on the life of Frank Abagnale",
+            "rating":"PG"
+        },
+        {
+            "title":"Cars",
+            "duration":"2 hrs",
+            "trailer_youtube_url":"https://www.youtube.com/watch?v=SbXIj2T-_uk",
+            "poster_image_url":"https://upload.wikimedia.org/wikipedia/en/3/34/Cars_2006.jpg",
+            "storyline":"Story of rookie race car Lightning McQueen to win Piston Cup",
+            "rating":"G"
+        },
+        {
+            "title":"Hunger Games",
+            "duration":"2 hrs",
+            "trailer_youtube_url":"https://www.youtube.com/watch?v=mfmrPu43DF8",
+            "poster_image_url":"https://upload.wikimedia.org/wikipedia/en/4/42/HungerGamesPoster.jpg",
+            "storyline":"A really real reality show.",
+            "rating":"PG-13"
+        }
+    ]
+}
