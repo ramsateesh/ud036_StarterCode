@@ -7,7 +7,7 @@ Install Apache and configure python 2.7.  Please see [Apache Documentation](http
 
 # Install
 
-Go to [ud036_StarterCode](https://github.com/ramsateesh/ud036_StarterCode) and clone to your apache htdocs folder.
+Go to [ud036_StarterCode](https://github.com/ramsateesh/ud036_StarterCode) and clone to your apache htdocs folder.  Rename the folder ud036_StarterCode to movies.
 
 # Quickstart
 
@@ -17,7 +17,7 @@ Go to [ud036_StarterCode](https://github.com/ramsateesh/ud036_StarterCode) and c
 
 ### Add more Movies to list
 
-Use your choice of text editor to add few more movies into the json file.  Now click [Movies](http://localhost/mvoies) to see new list
+Use your choice of text editor to add few more movies into the json file.  Now click [Movies](http://localhost/movies) to see new list
 
 #### movies.json
 
